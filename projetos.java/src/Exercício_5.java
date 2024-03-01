@@ -9,8 +9,7 @@ public class Exercício_5 {
         ler.close();
     }
     public static String limpaString(String str){
-        String strLimpo = str.replaceAll("[ ,.;]", "");
-        strLimpo = strLimpo.toLowerCase();
+        String strLimpo = str.replaceAll("[ ,.;]", "").toLowerCase();
         return strLimpo;
     }
     public static boolean isPalindromo(String str){
