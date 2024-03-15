@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainEx_2",
+            "request": "launch",
+            "mainClass": "Exercício_2.MainEx_2",
+            "projectName": "Projetos Java_c67e3d89"
+        },
+        {
+            "type": "java",
+            "name": "mainEx_1",
+            "request": "launch",
+            "mainClass": "mainEx_1",
+            "projectName": "Projetos Java_c67e3d89"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_3",
+            "request": "launch",
+            "mainClass": "Exercício_3",
+            "projectName": "Projetos Java_c67e3d89"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_2",
+            "request": "launch",
+            "mainClass": "Exercício_2",
+            "projectName": "Projetos Java_c67e3d89"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_1",
+            "request": "launch",
+            "mainClass": "Exercício_1",
+            "projectName": "Projetos Java_c67e3d89"
+        },
+        {
+            "type": "java",
+            "name": "Exercício_5",
+            "request": "launch",
+            "mainClass": "Exercício_5",
+            "projectName": "Projetos Java_c67e3d89"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "Projetos Java_c67e3d89"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
