@@ -23,9 +23,9 @@ public class stack {
         if (top == null) {
             throw new EmptyStackException();
         }
-        char removeNode = top.value;
+        node removeNode = top;
         top = top.next;
-        return removeNode;
+        return removeNode.value;
     }
 
     public char peek() {
